@@ -1,7 +1,7 @@
 "use client";
 
 import toast from "react-hot-toast";
-import TourInfo from "@/components/TourInfo";
+import TourInfo from "./TourInfo";
 import { useMutation, useQueryClient } from "@tanstack/react-query";
 import {
   getExistingTour,

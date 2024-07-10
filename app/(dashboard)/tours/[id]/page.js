@@ -1,4 +1,4 @@
-import TourInfo from "@/components/TourInfo";
+import TourInfo from "../../../../components/TourInfo";
 import { getSingleTour } from "../../../../utils/action";
 import Link from "next/link";
 import { redirect } from "next/navigation";
