@@ -8,7 +8,6 @@ The project utilizes:
 - Prisma with PostgreSQL for database management, hosted on Clever Cloud
 - Clerk for authentication
 - OpenAI API (GPT-3.5 Turbo) for AI capabilities
-- Clever Cloud for hosting
 - Vercel for hosting the entire web app
 
 > GPT-3.5 Turbo
