@@ -1,4 +1,4 @@
-## GPTGuide - Open Ai Project 🖱️
+## GPTGuide - Open Ai Project 🖱️ (Work In Progress)
 
 This project serves as a comprehensive guide to the OpenAI API, built with modern technologies to deliver a seamless experience.
 GPTGuide is similar to ChatGPT, but it is specifically configured to handle tour-related scenarios, providing tailored prompts and responses for this context. 
